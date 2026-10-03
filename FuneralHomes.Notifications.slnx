@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/FuneralHomes.Notifications.Api/FuneralHomes.Notifications.Api.csproj" />
+    <Project Path="src/FuneralHomes.Notifications.Application/FuneralHomes.Notifications.Application.csproj" />
+    <Project Path="src/FuneralHomes.Notifications.Domain/FuneralHomes.Notifications.Domain.csproj" />
+    <Project Path="src/FuneralHomes.Notifications.Infrastructure/FuneralHomes.Notifications.Infrastructure.csproj" />
+  </Folder>
+</Solution>
